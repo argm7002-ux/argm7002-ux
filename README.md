@@ -1,218 +1,205 @@
-👋 Hi, I'm Anantharajagopalan
+<div align="center">ANANTHARAJAGOPALAN
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Software+%26+Hardware+Builder;Always+Learning+%26+Building+🚀" />
-</p><p align="center">
-  <a href="https://github.com/argm7002-ux">
-    <img src="https://img.shields.io/badge/GitHub-argm7002--ux-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:argm7002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>---
+FULL-STACK DEVELOPER · AI/ML · SOFTWARE ENGINEERING
 
-🧑‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=FULL-STACK+ENGINEERING;AI+%2F+MACHINE+LEARNING;MERN+STACK+DEVELOPMENT;SOFTWARE+%2B+HARDWARE+SYSTEMS;BUILDING+REAL-WORLD+TECHNOLOGY" /><br><img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:00D9FF&section=header&text=ENGINEERING%20%7C%20INNOVATION%20%7C%20CODE&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=70"/></div>---
 
-I'm Anantharajagopalan, a developer who enjoys turning ideas into practical digital products.
+SYSTEM PROFILE
 
-My interests span full-stack development, artificial intelligence, automation, and emerging technologies. I enjoy working on projects that combine software with real-world applications.
-
-- 💻 Full Stack & MERN Stack Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 🐍 Python Development
-- ☕ Java Development
-- ⚡ C / C++ Programming
-- 🔋 EV & Battery Technology
-- 🧠 AI-powered applications
-- 🚀 Building and experimenting with new ideas
-- 📚 Continuously improving my technical skills
-
-«Build. Learn. Experiment. Improve. Repeat. 🚀»
+NAME        :: ANANTHARAJAGOPALAN
+ROLE        :: FULL-STACK DEVELOPER
+SPECIALITY  :: AI / ML · WEB · AUTOMATION
+STACK       :: MERN · PYTHON · JAVA · C/C++
+FOCUS       :: SOFTWARE + HARDWARE SYSTEMS
+STATUS      :: BUILDING / LEARNING / ITERATING
 
 ---
 
-🛠️ Tech Stack
+ENGINEERING STACK
 
-👨‍💻 Programming Languages
+PROGRAMMING
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
-</p>🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb" />
-</p>🤖 AI & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>🔧 Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>---
-
-🚀 Featured Projects
-
-🐄 Cattle Lens
-
-AI-powered cattle breed detection application
-
-Cattle Lens is designed to use image-based AI technology to identify cattle breeds and provide useful information from an uploaded image.
-
-Focus: AI • Computer Vision • Image Processing
-
----
-
-🔋 EV Battery Swapping
-
-Full-stack hardware + software EV battery swapping system
-
-A project exploring automated EV battery swapping with a combination of hardware components, control systems and software.
-
-Focus: EV Technology • Automation • Embedded Systems • Software
-
----
-
-🤖 Bunker
-
-AI-focused application
-
-An application concept designed to explore how artificial intelligence can be applied across different domains and use cases.
-
-Focus: AI • Applications • Innovation
-
----
-
-🌐 MERN Stack Projects
-
-Building modern web applications using:
-
-"MongoDB" → "Express.js" → "React" → "Node.js"
-
-Focused on responsive interfaces, APIs, databases and complete full-stack applications.
-
----
-
-🧠 What I'm Currently Learning
-
-▸ Advanced Full Stack Development
-▸ AI / Machine Learning
-▸ Computer Vision
-▸ Backend Development
-▸ REST APIs
-▸ Database Management
-▸ Automation
-▸ EV Technology
-▸ Software + Hardware Integration
-
----
-
-🏆 Certifications & Learning
-
-💻 MERN Stack Development
-
-Full-stack web development using modern JavaScript technologies.
-
-🤖 AI & Technology
-
-Exploring practical applications of artificial intelligence and machine learning.
-
-🌐 Web Development
-
-Building responsive and interactive web applications.
-
-🧑‍💻 Programming
-
-Continuous practice with C, C++, Java and Python.
-
----
-
-📊 GitHub Statistics
+</p>FULL-STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=argm7002-ux&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=argm7002-ux&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>---
-
-🔥 GitHub Streak
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+</p>AI / DEVELOPMENT
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=argm7002-ux&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,git,github,vscode,postman,figma,docker" />
 </p>---
 
-📈 Contribution Activity
+FEATURED SYSTEMS
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=argm7002-ux&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>---
+CATTLE LENS
 
-🧰 Tools & Technologies
+TYPE        :: AI / COMPUTER VISION
+INPUT       :: CATTLE IMAGE
+PROCESSING  :: IMAGE ANALYSIS
+OUTPUT      :: BREED IDENTIFICATION
 
-Category| Technologies
-Languages| C, C++, Java, Python, JavaScript
-Frontend| HTML, CSS, JavaScript, React
-Backend| Node.js, Express.js
-Database| MongoDB
-AI / ML| Python, Machine Learning, Computer Vision
-Version Control| Git, GitHub
-API Tools| Postman
-Design| Figma
-IDE| Visual Studio Code
-Hardware| EV Systems, Battery Systems, Automation
+AI-driven image analysis system designed to identify cattle breeds from images.
 
 ---
 
-🎯 My Development Focus
+EV BATTERY SWAPPING
 
-              ┌──────────────────────┐
-              │      BUILD 🚀        │
-              └──────────┬───────────┘
-                         │
-              ┌──────────▼───────────┐
-              │      LEARN 📚        │
-              └──────────┬───────────┘
-                         │
-              ┌──────────▼───────────┐
-              │    EXPERIMENT 🧪     │
-              └──────────┬───────────┘
-                         │
-              ┌──────────▼───────────┐
-              │     IMPROVE ⚡       │
-              └──────────┬───────────┘
-                         │
-                         └──────► REPEAT 🔥
+TYPE        :: HARDWARE + SOFTWARE
+DOMAIN      :: ELECTRIC MOBILITY
+SYSTEMS     :: BATTERY · SENSORS · CONTROL
+FOCUS       :: AUTOMATION + MONITORING
+
+Engineering concept combining EV battery systems, automation and software control.
 
 ---
 
-🌟 Goals
+BUNKER
 
-- 🚀 Build impactful real-world projects
-- 🤖 Develop practical AI solutions
-- 💻 Become a stronger full-stack developer
-- 🔋 Explore innovative EV technologies
-- 🌐 Contribute to open-source projects
-- 🧠 Keep learning emerging technologies
+TYPE        :: AI APPLICATION
+DOMAIN      :: ARTIFICIAL INTELLIGENCE
+FOCUS       :: AI-POWERED SOLUTIONS
+
+Technology platform exploring practical applications of artificial intelligence.
 
 ---
 
-📫 Connect With Me
+3D TECHNOLOGY PIPELINE
 
-<p align="center"><a href="https://github.com/argm7002-ux">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="mailto:argm7002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></p>---
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&height=160&color=0:00D9FF,50:161B22,100:0D1117&text=IDEA%20→%20ARCHITECTURE%20→%20BUILD%20→%20TEST%20→%20DEPLOY&fontSize=18&fontColor=FFFFFF&animation=twinkling"/></div>             ┌─────────────────────┐
+             │       CONCEPT       │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │     ARCHITECTURE    │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │       DEVELOP       │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │        TEST         │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │       DEPLOY        │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │      ITERATE        │
+             └─────────────────────┘
 
-👀 Profile Visitors
+---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=argm7002-ux&label=Profile%20Views&style=for-the-badge"/>
-</p>---
+GITHUB ANALYTICS
 
-<p align="center">💙 Thanks for visiting my GitHub profile!
+<div align="center"><a href="https://github.com/argm7002-ux">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=argm7002-ux&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&bg_color=00000000&rank_icon=github"/>
+</a><a href="https://github.com/argm7002-ux">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=argm7002-ux&layout=donut&langs_count=8&hide_border=true&theme=transparent&title_color=00D9FF&text_color=8B949E&bg_color=00000000"/>
+</a></div>---
 
-⭐ If you find my projects interesting, consider giving them a star!
+CONTRIBUTION STREAK
 
-Let's build something meaningful with technology. 🚀
+<div align="center"><img src="https://streak-stats.demolab.com/?user=argm7002-ux&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/></div>---
 
-</p>
+CONTRIBUTION MATRIX
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=argm7002-ux&bg_color=00000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%"/></div>---
+
+DEVELOPMENT ENVIRONMENT
+
+LANGUAGES
+├── C
+├── C++
+├── Java
+├── Python
+└── JavaScript
+
+FRONTEND
+├── HTML
+├── CSS
+├── JavaScript
+└── React
+
+BACKEND
+├── Node.js
+├── Express.js
+└── REST APIs
+
+DATABASE
+└── MongoDB
+
+AI / ML
+├── Machine Learning
+├── Computer Vision
+└── Image Processing
+
+TOOLS
+├── Git
+├── GitHub
+├── VS Code
+├── Postman
+├── Figma
+└── Docker
+
+---
+
+ENGINEERING ROADMAP
+
+FULL-STACK
+████████████████████░ 90%
+
+AI / ML
+███████████████░░░░░ 75%
+
+COMPUTER VISION
+████████████░░░░░░░░ 60%
+
+BACKEND ARCHITECTURE
+█████████████░░░░░░░ 65%
+
+AUTOMATION
+████████████░░░░░░░░ 60%
+
+SYSTEM DESIGN
+██████████░░░░░░░░░░ 50%
+
+---
+
+CURRENT DIRECTION
+
+engineering:
+  - full_stack
+  - backend
+  - api_development
+  - system_design
+
+artificial_intelligence:
+  - machine_learning
+  - computer_vision
+  - image_processing
+
+innovation:
+  - ev_technology
+  - automation
+  - hardware_software_integration
+
+development:
+  - clean_code
+  - problem_solving
+  - open_source
+  - continuous_learning
+
+---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00D9FF,50:161B22,100:0D1117&section=footer&animation=twinkling"/>BUILD · ENGINEER · INNOVATE
+
+</div>
